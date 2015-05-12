@@ -1,0 +1,9 @@
+"A"?->A
+"B"?->B
+"C"?->C
+(B^2-(4*A*C)->X
+SquareRoot(X)->X
+2*A->Y
+-B->B
+(B-X)/Y // this is X1
+(B+X)/Y // this is X2
